@@ -1,0 +1,1 @@
+# demo-loyalty-management-impl
